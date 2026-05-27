@@ -45,6 +45,17 @@ Built Tableau dashboards analyzing:
 
 Applied NLP and machine learning techniques to analyze sentiment trends and investor behavior patterns.
 
+### PAK Cafe & Bakery Website
+Created a multi-page HTML website for a Vietnamese-inspired cafe and bakery concept.
+
+**Tools Used:** HTML, Basic Web Design, Business Branding
+
+**Highlights:**
+- Built two linked HTML pages for drinks and bakery products
+- Designed product menu sections with images, descriptions, and pricing
+- Practiced website structure, navigation, and customer-focused content
+- Demonstrated beginner front-end development and business presentation skills
+
 ## Education
 
 University of South Florida
